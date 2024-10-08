@@ -1,0 +1,14 @@
+D:\monocept_c# learning\Day21\AccountAppWIthHasARelationship\bin\Debug\net8.0\AccountAppWIthHasARelationship.exe
+D:\monocept_c# learning\Day21\AccountAppWIthHasARelationship\bin\Debug\net8.0\AccountAppWIthHasARelationship.deps.json
+D:\monocept_c# learning\Day21\AccountAppWIthHasARelationship\bin\Debug\net8.0\AccountAppWIthHasARelationship.runtimeconfig.json
+D:\monocept_c# learning\Day21\AccountAppWIthHasARelationship\bin\Debug\net8.0\AccountAppWIthHasARelationship.dll
+D:\monocept_c# learning\Day21\AccountAppWIthHasARelationship\bin\Debug\net8.0\AccountAppWIthHasARelationship.pdb
+D:\monocept_c# learning\Day21\AccountAppWIthHasARelationship\obj\Debug\net8.0\AccountAppWIthHasARelationship.GeneratedMSBuildEditorConfig.editorconfig
+D:\monocept_c# learning\Day21\AccountAppWIthHasARelationship\obj\Debug\net8.0\AccountAppWIthHasARelationship.AssemblyInfoInputs.cache
+D:\monocept_c# learning\Day21\AccountAppWIthHasARelationship\obj\Debug\net8.0\AccountAppWIthHasARelationship.AssemblyInfo.cs
+D:\monocept_c# learning\Day21\AccountAppWIthHasARelationship\obj\Debug\net8.0\AccountAppWIthHasARelationship.csproj.CoreCompileInputs.cache
+D:\monocept_c# learning\Day21\AccountAppWIthHasARelationship\obj\Debug\net8.0\AccountAppWIthHasARelationship.dll
+D:\monocept_c# learning\Day21\AccountAppWIthHasARelationship\obj\Debug\net8.0\refint\AccountAppWIthHasARelationship.dll
+D:\monocept_c# learning\Day21\AccountAppWIthHasARelationship\obj\Debug\net8.0\AccountAppWIthHasARelationship.pdb
+D:\monocept_c# learning\Day21\AccountAppWIthHasARelationship\obj\Debug\net8.0\AccountAppWIthHasARelationship.genruntimeconfig.cache
+D:\monocept_c# learning\Day21\AccountAppWIthHasARelationship\obj\Debug\net8.0\ref\AccountAppWIthHasARelationship.dll
